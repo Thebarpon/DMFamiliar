@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DMFamiliar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|e:\\dmfamiliar\\assets\\scripts\\ui\\gridlayoutcustoms\\monsterinfogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gridlayoutcustoms\\monsterinfogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|e:\\dmfamiliar\\assets\\scripts\\ui\\gridlayoutcustoms\\gridlayoutscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gridlayoutcustoms\\gridlayoutscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|e:\\dmfamiliar\\assets\\scripts\\managers\\timingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\timingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DMFamiliar\\Assets\\Data\\Test\\GolemAdamantium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Data\\Test\\GolemAdamantium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|E:\\DMFamiliar\\assets\\ui toolkit\\monsterifeditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\ui toolkit\\monsterifeditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|E:\\DMFamiliar\\assets\\ui toolkit\\monsterifeditorwindow.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\ui toolkit\\monsterifeditorwindow.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|E:\\DMFamiliar\\assets\\scripts\\ui\\monsterifdisplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\monsterifdisplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|E:\\DMFamiliar\\assets\\scripts\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|E:\\DMFamiliar\\assets\\assets\\redscarf\\easycsv\\demo\\read and write\\csvtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301036E4-09C8-C4AA-D5C4-4BD010AF9991}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\redscarf\\easycsv\\demo\\read and write\\csvtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\dmfamiliar\\assets\\ui toolkit\\monsterifeditorwindow.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\ui toolkit\\monsterifeditorwindow.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridLayoutScaler.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Scripts\\UI\\GridLayoutCustoms\\GridLayoutScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GridLayoutCustoms\\GridLayoutScaler.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Scripts\\UI\\GridLayoutCustoms\\GridLayoutScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GridLayoutCustoms\\GridLayoutScaler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:01:22.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonsterInfoGrid.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Scripts\\UI\\GridLayoutCustoms\\MonsterInfoGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GridLayoutCustoms\\MonsterInfoGrid.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Scripts\\UI\\GridLayoutCustoms\\MonsterInfoGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GridLayoutCustoms\\MonsterInfoGrid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:59:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimingManager.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Scripts\\Managers\\TimingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TimingManager.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Scripts\\Managers\\TimingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TimingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:53:05.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GolemAdamantium.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Data\\Test\\GolemAdamantium.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Test\\GolemAdamantium.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Data\\Test\\GolemAdamantium.cs",
+              "RelativeToolTip": "Assets\\Data\\Test\\GolemAdamantium.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:34:29.668Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterIFEditorWindow.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\UI Toolkit\\MonsterIFEditorWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\MonsterIFEditorWindow.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\UI Toolkit\\MonsterIFEditorWindow.cs",
+              "RelativeToolTip": "Assets\\UI Toolkit\\MonsterIFEditorWindow.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:25:59.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonsterIFEditorWindow.uxml",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\UI Toolkit\\MonsterIFEditorWindow.uxml",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\MonsterIFEditorWindow.uxml",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\UI Toolkit\\MonsterIFEditorWindow.uxml",
+              "RelativeToolTip": "Assets\\UI Toolkit\\MonsterIFEditorWindow.uxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-03T18:01:39.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonsterIFEditorWindow.uss",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\UI Toolkit\\MonsterIFEditorWindow.uss",
+              "RelativeDocumentMoniker": "Assets\\UI Toolkit\\MonsterIFEditorWindow.uss",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\UI Toolkit\\MonsterIFEditorWindow.uss",
+              "RelativeToolTip": "Assets\\UI Toolkit\\MonsterIFEditorWindow.uss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-03T17:53:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonsterIFDisplayManager.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Scripts\\UI\\MonsterIFDisplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MonsterIFDisplayManager.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Scripts\\UI\\MonsterIFDisplayManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MonsterIFDisplayManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:32:20.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsvTest.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Assets\\RedScarf\\EasyCsv\\Demo\\Read And Write\\CsvTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\RedScarf\\EasyCsv\\Demo\\Read And Write\\CsvTest.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Assets\\RedScarf\\EasyCsv\\Demo\\Read And Write\\CsvTest.cs",
+              "RelativeToolTip": "Assets\\Assets\\RedScarf\\EasyCsv\\Demo\\Read And Write\\CsvTest.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:42:14.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalizationManager.cs",
+              "DocumentMoniker": "E:\\DMFamiliar\\Assets\\Scripts\\LocalizationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocalizationManager.cs",
+              "ToolTip": "E:\\DMFamiliar\\Assets\\Scripts\\LocalizationManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocalizationManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:28:31.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
